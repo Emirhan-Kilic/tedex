@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/mnt/c/Users/emirh/OneDrive/Masa\u00fcst\u00fc/TexEd/cmake-build-debug"
+			"value" : "/mnt/c/Users/emirh/OneDrive/Masa\u00fcst\u00fc/TexEd/tedex/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/mnt/c/Users/emirh/OneDrive/Masa\u00fcst\u00fc/TexEd/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/mnt/c/Users/emirh/OneDrive/Masa\u00fcst\u00fc/TexEd/tedex/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -535,7 +535,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/mnt/c/Users/emirh/OneDrive/Masa\u00fcst\u00fc/TexEd"
+			"value" : "/mnt/c/Users/emirh/OneDrive/Masa\u00fcst\u00fc/TexEd/tedex"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1119,7 +1119,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/mnt/c/Users/emirh/OneDrive/Masa\u00fcst\u00fc/TexEd/cmake-build-debug"
+			"value" : "/mnt/c/Users/emirh/OneDrive/Masa\u00fcst\u00fc/TexEd/tedex/cmake-build-debug"
 		},
 		{
 			"name" : "TexEd_IS_TOP_LEVEL",
@@ -1143,7 +1143,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/mnt/c/Users/emirh/OneDrive/Masa\u00fcst\u00fc/TexEd"
+			"value" : "/mnt/c/Users/emirh/OneDrive/Masa\u00fcst\u00fc/TexEd/tedex"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

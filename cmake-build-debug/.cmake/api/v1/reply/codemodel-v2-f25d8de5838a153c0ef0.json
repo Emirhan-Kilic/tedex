@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/mnt/c/Users/emirh/OneDrive/Masa\u00fcst\u00fc/TexEd/cmake-build-debug",
-		"source" : "/mnt/c/Users/emirh/OneDrive/Masa\u00fcst\u00fc/TexEd"
+		"build" : "/mnt/c/Users/emirh/OneDrive/Masa\u00fcst\u00fc/TexEd/tedex/cmake-build-debug",
+		"source" : "/mnt/c/Users/emirh/OneDrive/Masa\u00fcst\u00fc/TexEd/tedex"
 	},
 	"version" : 
 	{

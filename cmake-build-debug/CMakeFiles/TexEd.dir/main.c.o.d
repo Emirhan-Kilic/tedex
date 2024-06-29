@@ -1,5 +1,5 @@
 CMakeFiles/TexEd.dir/main.c.o: \
- /mnt/c/Users/emirh/OneDrive/Masaüstü/TexEd/main.c \
+ /mnt/c/Users/emirh/OneDrive/Masaüstü/TexEd/tedex/main.c \
  /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
