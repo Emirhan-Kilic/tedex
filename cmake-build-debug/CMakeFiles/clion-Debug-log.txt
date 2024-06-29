@@ -1,0 +1,13 @@
+C:\WINDOWS\system32\wsl.exe --distribution Ubuntu --exec /mnt/c/Users/emirh/AppData/Local/Programs/CLion/bin/ttyfix /bin/bash -c "export CLION_IDE=TRUE && export CMAKE_COLOR_DIAGNOSTICS=ON && export JETBRAINS_IDE=TRUE && cd /mnt/c/Users/emirh/OneDrive/Masaüstü/TexEd/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S /mnt/c/Users/emirh/OneDrive/Masaüstü/TexEd -B /mnt/c/Users/emirh/OneDrive/Masaüstü/TexEd/cmake-build-debug"
+CMake Deprecation Warning:
+  Support for "Extra Generators" like
+
+    CodeBlocks
+
+  is deprecated and will be removed from a future version of CMake.  IDEs may
+  use the cmake-file-api(7) to view CMake-generated project build trees.
+
+
+-- Configuring done (0.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: /mnt/c/Users/emirh/OneDrive/Masaüstü/TexEd/cmake-build-debug

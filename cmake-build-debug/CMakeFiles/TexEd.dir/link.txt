@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/TexEd.dir/main.c.o -o TexEd 
